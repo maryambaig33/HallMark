@@ -1,0 +1,7 @@
+{
+  "name": "Hallmark Store Finder Enhanced",
+  "description": "A next-generation store locator using Gemini's Maps Grounding to find Hallmark stores, check stock availability, and get personalized recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
